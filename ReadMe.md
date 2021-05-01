@@ -1,3 +1,3 @@
 ## Using Python with Excel
-`reviewing.py`: review the wanted values  
+`reviewing.py`: Review the wanted values  
 `rename.py`: Rename multiple files
