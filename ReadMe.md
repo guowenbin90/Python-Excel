@@ -1,3 +1,4 @@
 ## Using Python with Excel
-`reviewing.py`: Review the wanted values  
+`fileRead.py`: Read different format files such as csv, txt and xlsx  
+`viewing.py`: Review the wanted values  
 `rename.py`: Rename multiple files
