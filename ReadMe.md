@@ -3,4 +3,4 @@
 `viewing.py`: Review the wanted values  
 `rename.py`: Rename multiple files  
 `cleaning.py`: Replace NaN with N/A  
-`filter`: Filter based on the column, such as tax
+`filter.py`: Filter based on the column, such as tax
